@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+  <configuration>
+  <theme>standard</theme>	<!-- standard and dark -->
+  
+    <encoding>UTF-8</encoding>
+    
+    <protocol>https</protocol>
+    
+    <documentTitle>Title - Cucumber Framework Report Document</documentTitle> <!-- This title will be displayed as browser title for the page -->
+    
+    <reportName>Pravins Report</reportName> <!-- This will be your report heading -->
+    
+    <dateFormat>yyyy-MM-dd</dateFormat>
+    
+    <timeFormat>HH:mm:ss</timeFormat>
+    
+    <reportHeadline>Cucumber Extent Report</reportHeadline>
+   </configuration>
+</extentreports>

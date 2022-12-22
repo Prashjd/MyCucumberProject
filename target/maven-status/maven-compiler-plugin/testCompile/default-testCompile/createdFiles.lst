@@ -1,0 +1,7 @@
+PageObject\SearchCustomerPage.class
+Utilities\ReadConfig.class
+PageObject\LoginPage.class
+TestRunner\Run.class
+PageObject\AddNewCustomerPage.class
+StepDefinition\BaseClass.class
+StepDefinition\StepDef.class
